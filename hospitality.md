@@ -14,7 +14,7 @@ Digital Media/Computer Science graduate from Scotland.
 
 - **Tinderbox, Kitchen Assistant (2023--24)**
 
-  Keep the kitchen clean, and prepare food at the central kitchen for Glasgow Tinderbox branches.
+  Keep the kitchen clean, and prepare food at the central kitchen for Glasgow's Tinderbox branches.
 
 - **Carnegie Club at Skibo Castle, Kitchen Assistant (2018--19)**
 
