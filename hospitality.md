@@ -64,7 +64,7 @@ Digital Media/Computer Science graduate from Scotland.
 
 ## Other Info
 
-- Former member of Mountaineering, Ice Skating, and Creative Writing university societies
+- Member of Mountaineering, Ice Skating, and Creative Writing societies at RGU
 - Marathon runner and cyclist
 - Bass guitarist for band Orovada
 - Clean UK driving license
