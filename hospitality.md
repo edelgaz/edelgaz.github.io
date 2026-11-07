@@ -8,7 +8,7 @@ Digital Media/Computer Science graduate from Scotland.
 
 ## Experience
 
-- **Courier, VG Delivered (2026--)**
+- **VG Delivered, Courier (2026--)**
 
   Deliver food by bike from Edinburgh's vegan restaurants to addresses across the city.
 
@@ -22,7 +22,7 @@ Digital Media/Computer Science graduate from Scotland.
 
 ## Other Experience
 
-- Self-employed Courier & Dogsitter (2026--)
+- Self-employed, Courier & Dogsitter (2026--)
 - Goodies, Volunteer Food Collector/Sorter (2026--)
 - Connecting Carers, Graduate Technology Officer (2025--2026)
 - Scottish Event Campus, Housekeeper (2024)
