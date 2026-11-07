@@ -23,7 +23,7 @@ Digital Media/Computer Science graduate from Scotland.
 ## Other Experience
 
 - Self-employed Courier & Dogsitter (2026--)
-- Volunteer Food Collector/Sorter, Goodies (2026--)
+- Goodies, Volunteer Food Collector/Sorter (2026--)
 - Connecting Carers, Graduate Technology Officer (2025--2026)
 - Scottish Event Campus, Housekeeper (2024)
 - AISUS Offshore, Junior Data Scientist (2023)
