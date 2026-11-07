@@ -1,24 +1,29 @@
 [a.weir3@rgu.ac.uk](mailto:a.weir3@rgu.ac.uk)
 
-[07547 563 702](tel:+447547563702)
+[07547 563702](tel:+447547563702)
 
-[40 (4F) St Mary's Street, Old Town, Edinburgh, EH1 1SX](geo:55.94977875,-3.18347906?q=40+St+Mary%27s+Street,Old+Town,Edinburgh,EH1+1SX,UK)
+[40 St Mary's Street, Old Town, Edinburgh, EH1 1SX](geo:55.94977875,-3.18347906?q=40+St+Mary%27s+Street,Old+Town,Edinburgh,EH1+1SX,UK)
 
 Digital Media/Computer Science graduate from Scotland.
 
 ## Experience
 
+- **Courier, VG Delivered (2026--)**
+
+  Deliver food by bike from Edinburgh's vegan restaurants to addresses across the city.
+
 - **Tinderbox, Kitchen Assistant (2023--24)**
 
-  Prepared food at the central kitchen for Glasgow Tinderbox branches, and kept the kitchen and equipment clean.
+  Keep the kitchen clean, and prepare food at the central kitchen for Glasgow Tinderbox branches.
 
 - **Carnegie Club at Skibo Castle, Kitchen Assistant (2018--19)**
 
-  Kept the kitchen and equipment clean, and drove food and personnel around the Skibo estate.
+  Clean, and drive food and personnel around the Skibo estate.
 
 ## Other Experience
 
-- Volunteer food collector/sorter, Goodies (2026--)
+- Self-employed Courier & Dogsitter (2026--)
+- Volunteer Food Collector/Sorter, Goodies (2026--)
 - Connecting Carers, Graduate Technology Officer (2025--2026)
 - Scottish Event Campus, Housekeeper (2024)
 - AISUS Offshore, Junior Data Scientist (2023)
