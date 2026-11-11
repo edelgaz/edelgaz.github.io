@@ -10,12 +10,11 @@ Digital Media/Computer Science graduate from Scotland.
 
 - **Connecting Carers, Graduate Technology Officer (2025--2026)**
 
-  Helped improve the organisation's digital maturity by automating business processes, provided staff training, and led a graphic design project.
+  Helped improve the organisation's digital maturity by automating business processes, provided staff training on Microsoft 365, and led a graphic design project.
 
 ---
 
 - Self-employed, Courier & Dogsitter (2026--)
-- Goodies, Volunteer Food Collector/Sorter (2026--)
 - Scottish Event Campus, Housekeeper (2024)
 - Tinderbox, Kitchen Assistant (2023--24)
 - AISUS Offshore, Junior Data Scientist (2023)
@@ -29,6 +28,20 @@ Digital Media/Computer Science graduate from Scotland.
 - Glenmorangie Distillery, Tour Guide (2017)
 - ASDA, Chilled Colleague (2015--16)
 - R.S. McColls, Paperboy (2012--15)
+
+## Volunteering
+
+- **Goodies, Food Collector/Sorter (2026--)**
+
+  Collect and deliver food from Edinburgh supermarkets and deliver by cargo bike to the Crannie Community Centre.
+
+- **Dornoch Library, Computer Whiz (2017)**
+
+  Lead a drop-in technology workshop for digitally excluded people.
+
+- **High Life Highland, Digital Drop-in Assistant (2015)**
+
+  Helped a small team of assistants to run a drop-in technology workshop for digitally excluded people. 
 
 ## Education
 
