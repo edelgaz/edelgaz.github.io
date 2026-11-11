@@ -12,6 +12,8 @@ Digital Media/Computer Science graduate from Scotland.
 
   Helped improve the organisation's digital maturity by automating business processes, provided staff training, and led a graphic design project.
 
+---
+
 - Self-employed, Courier & Dogsitter (2026--)
 - Goodies, Volunteer Food Collector/Sorter (2026--)
 - Scottish Event Campus, Housekeeper (2024)
